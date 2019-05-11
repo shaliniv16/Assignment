@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="username">IRCTC User ID</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="age">Age</string>
+    <string name="book_now">Book Now</string>
+    <string name="login">Login credentials</string>
+    <string name="journey_details">Journey Details</string>
+    <string name="from">From: </string>
+    <string name="to">To: </string>
+    <string name="date">Date: </string>
+    <string name="passenger_details">Passenger Details</string>
+    <string name="gender">Gender</string>
+    <string name="select_prompt">Select</string>
+    <string name="berth_prferences">Berth Preferences</string>
+    <string name="select_meals">Select Meals</string>
+    <string name="set_date">Set Date</string>
+    <string name="d">dd-mm-yyyy</string>
+
+    <string-array name="arrays">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="arrays1">
+        <item>Berth Preferences</item>
+        <item>Lower</item>
+        <item>Middle</item>
+        <item>Upper</item>
+        <item>Side Lower</item>
+        <item>Side Upper</item>
+        <item>Window Side</item>
+    </string-array>
+
+    <string-array name="arrays2">
+        <item>Select meals</item>
+        <item>Non-Veg</item>
+        <item>Veg</item>
+        <item>No Food</item>
+    </string-array>
+
+    <string-array name="arrays3">
+        <item>Executive Class</item>
+        <item>Second AC</item>
+        <item>First Class</item>-
+        <item>Third AC</item>
+        <item>Third AC Economy</item>
+        <item>Chair Car</item>
+        <item>Sleeper Class</item>
+        <item>Second Sitting</item>
+        <item>Anubhuti Class</item>
+    </string-array>
+
+
+</resources>
